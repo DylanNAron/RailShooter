@@ -1,0 +1,2 @@
+/Users/DylanAron/RailShooter/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+/Users/DylanAron/RailShooter/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{54A28BDF-FC40-F385-B963-2535C2C56638}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/MusicPlayer.cs" Line="11" Column="39" />
+      <File FileName="Assets/Standard Assets/Utility/WaypointCircuit.cs" Line="256" Column="18" />
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+      <File FileName="Assets/Player.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RailShooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True" />
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c78fe05f-d507-4b32-95ce-236cde7d414d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
