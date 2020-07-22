@@ -28,7 +28,9 @@ Transform:
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: -1.7287916}
   m_LocalScale: {x: 30, y: 30, z: 30}
-  m_Children: []
+  m_Children:
+  - {fileID: 3440280837220717093}
+  - {fileID: 7659044995672961488}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
@@ -79,3 +81,129 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!1001 &3436547618888608653
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4990607877152018}
+    m_Modifications:
+    - target: {fileID: 1809280672802518, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_Name
+      value: Jet Particles Purple
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.20890044
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.29559976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0060000103
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.74865884
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.051009692
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.02792677
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6603999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 99.60599
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 40.869995
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 42.746994
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+--- !u!4 &3440280837220717093 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276,
+    type: 3}
+  m_PrefabInstance: {fileID: 3436547618888608653}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7657562148022765688
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4990607877152018}
+    m_Modifications:
+    - target: {fileID: 1809280672802518, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_Name
+      value: Jet Particles Purple (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.20599985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.30799982
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.007999897
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7512536
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0110776005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.027799802
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.65933484
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 97.57599
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -11.888977
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -8.731995
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 726272ec78dd60649ab66aa049e44276, type: 3}
+--- !u!4 &7659044995672961488 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4297903502670248, guid: 726272ec78dd60649ab66aa049e44276,
+    type: 3}
+  m_PrefabInstance: {fileID: 7657562148022765688}
+  m_PrefabAsset: {fileID: 0}
